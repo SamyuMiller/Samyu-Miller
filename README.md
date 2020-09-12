@@ -1,3 +1,3 @@
-# Sugar-Free-dom
-A repo for my healthy eating blog.
-I hope you enjoy this blog.
+#S Samyu-Miller 
+A repo all about me 
+I hope you enjoy getting to know me a bit more! 
